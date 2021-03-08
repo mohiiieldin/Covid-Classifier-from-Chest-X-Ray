@@ -1,1 +1,1 @@
-# Covid-Classifier-from-Chest-X-Ray
+Classyfing if the suspected pathient has Covid19, Viral phemonuia (from a virus that is different than covid19) or normal and he/she just have a  typical flu. This is done though a chest x-ray for the patheint and applying a CNN model on it (densenet201 with a custom classifier).
